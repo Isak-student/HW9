@@ -1,0 +1,16 @@
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/bin/Debug/net6.0/Zadacha68
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/bin/Debug/net6.0/Zadacha68.deps.json
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/bin/Debug/net6.0/Zadacha68.runtimeconfig.json
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/bin/Debug/net6.0/Zadacha68.dll
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/bin/Debug/net6.0/ref/Zadacha68.dll
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/bin/Debug/net6.0/Zadacha68.pdb
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.GlobalUsings.g.cs
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.csproj.AssemblyReference.cache
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.AssemblyInfoInputs.cache
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.AssemblyInfo.cs
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.csproj.CoreCompileInputs.cache
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.dll
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/ref/Zadacha68.dll
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.pdb
+/Users/isakhaimov/Desktop/Lesson/HW9/Zadacha68/obj/Debug/net6.0/Zadacha68.genruntimeconfig.cache
